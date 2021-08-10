@@ -1,0 +1,21 @@
+h1{
+    color: red; 
+}
+
+.Links{      /*This is class selector which can be used many times*/
+    color: blue; 
+}
+
+.heading{     /**/
+    color:crimson; 
+}
+
+#contact-him{    /*This is id selector which can be used only once*/
+    color: brown;
+}
+
+h2:hover{
+    color: pink; /*this is called hover*/
+}
+
+
